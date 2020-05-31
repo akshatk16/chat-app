@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24eed7568d7f79a7d13d3f73798d27ea",
+    "revision": "285855383737216a88dc8057898de0c6",
     "url": "/saladchat/index.html"
   },
   {
