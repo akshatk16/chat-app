@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "285855383737216a88dc8057898de0c6",
+    "revision": "fe592578be12022c5759db5004b1f603",
     "url": "/saladchat/index.html"
   },
   {
-    "revision": "73e25235f1a03c82e808",
-    "url": "/saladchat/static/css/main.37614ea6.chunk.css"
+    "revision": "44194543386c7a69a628",
+    "url": "/saladchat/static/css/main.824f243f.chunk.css"
   },
   {
     "revision": "b5bba76ff3802fb87fbe",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/saladchat/static/js/2.8d665574.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "73e25235f1a03c82e808",
+    "revision": "44194543386c7a69a628",
     "url": "/saladchat/static/js/main.a82441ed.chunk.js"
   },
   {

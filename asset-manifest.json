@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/saladchat/static/css/main.37614ea6.chunk.css",
+    "main.css": "/saladchat/static/css/main.824f243f.chunk.css",
     "main.js": "/saladchat/static/js/main.a82441ed.chunk.js",
     "main.js.map": "/saladchat/static/js/main.a82441ed.chunk.js.map",
     "runtime-main.js": "/saladchat/static/js/runtime-main.8808a5cb.js",
@@ -8,15 +8,15 @@
     "static/js/2.8d665574.chunk.js": "/saladchat/static/js/2.8d665574.chunk.js",
     "static/js/2.8d665574.chunk.js.map": "/saladchat/static/js/2.8d665574.chunk.js.map",
     "index.html": "/saladchat/index.html",
-    "precache-manifest.2e4830256bd408c97183de9c02fe497d.js": "/saladchat/precache-manifest.2e4830256bd408c97183de9c02fe497d.js",
+    "precache-manifest.cc97152c2715f2b0c236f46707c835a6.js": "/saladchat/precache-manifest.cc97152c2715f2b0c236f46707c835a6.js",
     "service-worker.js": "/saladchat/service-worker.js",
-    "static/css/main.37614ea6.chunk.css.map": "/saladchat/static/css/main.37614ea6.chunk.css.map",
+    "static/css/main.824f243f.chunk.css.map": "/saladchat/static/css/main.824f243f.chunk.css.map",
     "static/js/2.8d665574.chunk.js.LICENSE.txt": "/saladchat/static/js/2.8d665574.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8808a5cb.js",
     "static/js/2.8d665574.chunk.js",
-    "static/css/main.37614ea6.chunk.css",
+    "static/css/main.824f243f.chunk.css",
     "static/js/main.a82441ed.chunk.js"
   ]
 }
