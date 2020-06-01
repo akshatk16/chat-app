@@ -1,0 +1,39 @@
+.form {
+	display: flex;
+	border-top: 2px solid #333;
+}
+
+.textMessage {
+	border: none;
+	border-radius: 0;
+	padding: 2%;
+	width: 80%;
+	font-size: 1.2em;
+	background: #333245;
+	color: #fff;
+}
+
+::placeholder {
+	opacity: 0.6;
+}
+
+input:focus, textarea:focus, select:focus {
+	outline: none;
+}
+
+.sendButton {
+	color: #fff !important;
+	text-transform: uppercase;
+	text-decoration: none;
+	background: #993333;
+	padding: 20px;
+	display: inline-block;
+	border: none;
+	width: 20%;
+}
+
+@media (max-width:800px) {
+	.textMessage {
+		padding: 5%;
+	}
+}
